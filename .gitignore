@@ -1,0 +1,5 @@
+Fedora-Cloud-Base-34-1.2.x86_64.qcow2
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
